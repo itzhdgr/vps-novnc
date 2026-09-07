@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hourly-view-format-slow.trycloudflare.com/vnc.html
+URL       : https://maximize-patches-amd-sir.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-07 10:08:51
+Created   : 2026-09-07 19:08:30
 =======================================================
