@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://brake-necklace-stan-four.trycloudflare.com/vnc.html
+URL       : https://plug-lens-stopped-arts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-09 09:36:57
+Created   : 2026-09-09 14:25:50
 =======================================================
