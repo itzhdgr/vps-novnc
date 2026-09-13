@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://platforms-eng-familiar-heading.trycloudflare.com/vnc.html
+URL       : https://languages-paragraphs-beth-chrome.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 10:09:53
+Created   : 2026-09-13 18:05:47
 =======================================================
