@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://staff-reductions-texts-omissions.trycloudflare.com/vnc.html
+URL       : https://relevant-sox-castle-freebsd.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-16 14:49:41
+Created   : 2026-09-16 18:51:40
 =======================================================
