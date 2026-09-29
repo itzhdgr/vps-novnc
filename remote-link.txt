@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://flu-appointment-administered-brush.trycloudflare.com/vnc.html
+URL       : https://alias-consolidated-wider-regulation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-29 00:21:16
+Created   : 2026-09-29 11:17:23
 =======================================================
