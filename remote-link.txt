@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://lie-domestic-superior-worth.trycloudflare.com/vnc.html
+URL       : https://enb-elements-school-signing.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-04 05:38:17
+Created   : 2026-10-04 15:17:52
 =======================================================
