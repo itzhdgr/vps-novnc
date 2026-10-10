@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://viking-situations-require-moore.trycloudflare.com/vnc.html
+URL       : https://wed-italic-decade-size.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 15:51:41
+Created   : 2026-10-10 23:26:04
 =======================================================
