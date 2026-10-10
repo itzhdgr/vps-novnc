@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tamil-term-gratuit-people.trycloudflare.com/vnc.html
+URL       : https://buildings-kids-ward-carlos.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 00:00:02
+Created   : 2026-10-10 05:41:50
 =======================================================
