@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://tune-voluntary-echo-tracked.trycloudflare.com/vnc.html
+URL       : https://wind-featured-til-under.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-20 09:58:33
+Created   : 2026-10-20 14:58:45
 =======================================================
