@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://labeled-explained-anatomy-proteins.trycloudflare.com/vnc.html
+URL       : https://leu-node-minimal-distributor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-24 04:21:37
+Created   : 2026-10-24 09:31:19
 =======================================================
