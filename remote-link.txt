@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wines-scenes-wanting-html.trycloudflare.com/vnc.html
+URL       : https://summer-time-modem-beginner.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-02 20:15:05
+Created   : 2026-11-03 06:26:40
 =======================================================
