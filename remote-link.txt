@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://paperback-assignment-picked-race.trycloudflare.com/vnc.html
+URL       : https://bar-pot-extraordinary-supported.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-05 17:58:52
+Created   : 2026-11-06 00:57:46
 =======================================================
